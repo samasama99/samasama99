@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://www.codewars.com/users/sama_sama/badges/small)
 
 <!--
 **samasama99/samasama99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
