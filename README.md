@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahmouni Oussama</h1>
+<h1 align="center">Hi 👋, I'm Oussama Rahmouni</h1>
 <h3 align="center">A cs student at 1337 (42 network)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samasama99&label=Profile%20views&color=0e75b6&style=flat" alt="samasama99" /> </p>
